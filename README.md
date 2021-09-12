@@ -1,4 +1,4 @@
-# Digital Innovation One
+# Desafio GCP Dataproc - Digital Innovation One
 
 ![image](https://user-images.githubusercontent.com/67614411/132995107-1928db46-d672-4b6a-afda-7cd56b0a9516.png)
 
@@ -10,7 +10,7 @@ O desafio faz parte do curso na plataforma da Digital Innovation One:
 
 __*Criando um ecossitema Hadoop totalmente gerenciado com Google Cloud Platform*__
 
-O desafio consiste em efetuar um processamento de dados utilizando o produto Dataproc do GCP. Esse processamento irá efetuar a contahem das palavras de um livro e informar quantas vezes cada palavra aparece no mesmo.
+O desafio consiste em efetuar um processamento de dados utilizando o produto Dataproc do GCP. Esse processamento irá efetuar a contagem das palavras de um livro e informar quantas vezes cada palavra aparece no mesmo.
 
 ![image](https://user-images.githubusercontent.com/67614411/132995009-a0cefb1f-fd68-406e-b10d-2a019089c344.png)
 
