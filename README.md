@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/67614411/132998816-22dcc545-a1dd-49ad-a6b7-e0a3761d8637.png)
+
 # Desafio GCP Dataproc - Digital Innovation One
 
 ![image](https://user-images.githubusercontent.com/67614411/132995107-1928db46-d672-4b6a-afda-7cd56b0a9516.png)
